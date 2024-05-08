@@ -4,7 +4,7 @@
 .vscode/launch.json
 .vscode/ipch
 .vscode/settings.json
-src/configuration.h
+src/secrets.h
 *.code-workspace
 3d-models/*.FCStd
 3d-models/*.FCBak
